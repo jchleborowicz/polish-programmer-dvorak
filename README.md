@@ -1,2 +1,2 @@
 # polish-programmer-dvorak
-Polish programmer keyboard definition for Microsoft Keyboard Layout Creator.
+Polish programmer Dvorak keyboard definition for Microsoft Keyboard Layout Creator.
